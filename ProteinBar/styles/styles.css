@@ -1,0 +1,103 @@
+
+.img1{
+  background-image: url('https://unsplash.com/photos/phY30gaxqS8/download?force=true&w=1920');
+  text-align: center;
+  background-position: center;
+  min-height: 1000px;
+  width: 100%;
+  background-size: cover;
+}
+.titlepagemaintext{
+  position: relative;
+  top: 200px;
+  left:-80px;
+}
+
+.img1maintext{
+  font-size: 5em;
+  color: white;
+}
+.img1subtext{
+  color:white;
+}
+#aboutus{
+  background-color: white;
+  padding-top: 60px;
+  padding-bottom: 60px;
+
+}
+
+.aboutusimg{
+
+  width:100%;
+  background-image: url('../images/aboutus.jpeg');
+  background-position: center;
+
+}
+.aboutustext{
+  left: 20px;
+  text-align: center;
+  padding-top: 20px;
+  position: relative;
+  font-family: monospace;
+  font-weight: bolder;
+
+
+}
+.aboutustextheading{
+  font-size: 5rem;
+}
+.aboutustextmaintext{
+  padding-top: 40px;
+  font-size: 1.10rem;
+}
+.aboutuslist{
+  padding-top: 2.5rem;
+}
+.aboutustextmaintext li{
+  list-style: none;
+}
+.img2{
+  background-image: url('https://unsplash.com/photos/7kEpUPB8vNk/download?force=true&w=1920');
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 1000px;
+  position: relative;
+}
+.quoteimg2{
+  font-family: monospace;
+  font-weight: bolder;
+  font-size: 2rem;
+  color: white;
+  text-align: center;
+  padding-top: 250px;
+}
+.productstext{
+  text-align: center;
+
+  margin-top: 20px;
+  margin-left: 200px;
+}
+.productsbuttons{
+  margin-top: 20px;
+  margin-left: 500px;
+}
+#makeinIndia{
+  text-align: center;
+  margin-top: 40px;
+  background-color: #99c2b4;
+}
+.img3{
+  background-image: url('../images/footer.jpg');
+}
+
+
+h1{
+  font-family: monospace;
+  font-weight: bold;
+  font-style: italic;
+}
+h4{
+  font-family: monospace;
+  font-style: italic;
+}
